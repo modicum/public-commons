@@ -56,10 +56,11 @@ Make sure previous paragraph does not end with ``::``.
 
 2.  World
 
-    1.  Country
+    *  Country
 
         + State
-            + County
+            - County
+                 . City
 
 
 
