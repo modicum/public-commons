@@ -63,10 +63,15 @@ Make sure previous paragraph does not end with ``::``.
                  . City
 
 World
-    Country
-        State
-            County
-                 City
+    Region
+        Country
+            State
+                County
+                    City
+                        Ward
+                            District
+                                Division
+                                    Neiborhood
 
 Features
 --------
