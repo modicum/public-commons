@@ -1,7 +1,10 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+1.0
+---
+
+* Modicum
+*  
 
 
