@@ -16,12 +16,9 @@ Features
 - Be awesome
 - Make things faster
 
-Installation
-------------
+World
+-----
 
-Install $project by running:
-
-    install project
 
 Contribute
 ----------
