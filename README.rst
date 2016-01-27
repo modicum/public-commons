@@ -91,7 +91,44 @@ Wyoming
 Sheridan
 --------
 
+Scale
+=====
 
+   world
+   large region(s)
+   countries
+   medium region(s)
+   states (US)
+   small region(s)
+   county
+   city
+   township
+   community
+   institutions
+   enterprises
+   suburb
+   neighborhood
+   
+   
+Delimitation
+============
+   municipality
+   districts
+   precincts
+   wards
+   divisions
+   differences
+   other
+   
+Scope
+=====
+   
+   geography
+   population
+   sovereignty
+   infrastructure
+   public service
+   bias
 
 
 
