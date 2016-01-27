@@ -4,52 +4,69 @@ World
 
     World level organization of public documents for assisting in determining the degree of world population agreement on world laws, policies, and spending. 
     
-.. _intro:
+Scale
+=====
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Intro
-
-   getting_started
-
-.. _scale:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Scale
-
-   world
-   large region(s)
-   countries
-   medium region(s)
-   states (US)
-   small region(s)
-   county
-   city
-   township
-   community
+world
+-----
+large region(s)
+---------------
+countries
+---------
+medium region(s)
+----------------
+states (US)
+-----------
+small region(s)
+---------------
+county
+------
+city
+----
+township
+--------
+community
+---------
+institutions
+------------
+enterprises
+-----------
+suburb
+------
+neighborhood
+------------
    
-.. _delimitation:
+   
+Delimitation
+============
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Delimitation
+municipality
+------------
+districts
+---------
+precincts
+---------
+wards
+-----
+divisions
+---------
+differences
+-----------
+other
+-----
    
-   districts
-   precincts
-   wards
-   divisions
-   differences
-   other
-   
-.. _scope:
+Scope
+=====
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Scope
-   
-   geography
-   population
-   sovereignty
-   bias   
-    
+geography
+---------
+population
+----------
+sovereignty
+-----------
+infrastructure
+--------------
+public service
+--------------
+bias
+----
