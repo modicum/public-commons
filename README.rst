@@ -111,32 +111,52 @@ county
 city
 ----
 township
+--------
 community
+---------
 institutions
+------------
 enterprises
+-----------
 suburb
+------
 neighborhood
+------------
    
    
 Delimitation
 ============
+
 municipality
+------------
 districts
+---------
 precincts
+---------
 wards
+-----
 divisions
+---------
 differences
+-----------
 other
+-----
    
 Scope
 =====
-   
+
 geography
+---------
 population
+----------
 sovereignty
+-----------
 infrastructure
+--------------
 public service
+--------------
 bias
+----
 
 
 
